@@ -30,6 +30,10 @@ I'm looking forward to land my first job in the undstry.
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
+          <td width="80px" align="center">
+            <span><strong>SASS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
