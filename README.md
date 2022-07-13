@@ -20,7 +20,7 @@ I'm looking forward to land my first job in the undstry.
             </td>
             <td width="80px" align="center">
             <span><strong>Node</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg">
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
