@@ -4,8 +4,8 @@ I'm Hernan , Frontend Developer from Buenos Aires [AR]. I really enjoy working w
 
 I'm looking forward to land my first job in the undstry.
 
- If you want to get in touch: 
+ If you want to get in touch feel free to contact me: 
  
  📫 hernanbp.hb@gmail.com
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanbp"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanbp&show_icons=true&theme=dark"/>
