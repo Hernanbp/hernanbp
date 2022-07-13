@@ -15,12 +15,12 @@ I'm looking forward to land my first job in the undstry.
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
+            <span><strong>Javascript</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/sass/sass/sass-original.svg">
+            <span><strong>Node</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
@@ -44,7 +44,7 @@ I'm looking forward to land my first job in the undstry.
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
+            <span><strong>MySQL</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
             </td>
         </tr>
