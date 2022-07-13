@@ -9,7 +9,7 @@ I'm looking forward to land my first job in the undstry.
  📫 hernanbp.hb@gmail.com
  
  
- current stack:
+ Current Stack:
  
  <table width="320px">
     <tbody>
@@ -58,5 +58,3 @@ I'm looking forward to land my first job in the undstry.
         </tr>
     </tbody>
 </table>
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanbp&show_icons=true&theme=dark"/>
