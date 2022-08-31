@@ -7,7 +7,7 @@ I'm Hernan , Frontend Developer from Buenos Aires [AR]. I really enjoy working w
  📫 hernanbp.hb@gmail.com
  
  
- Current Stack:
+ Current Skills:
  
  <table width="320px">
     <tbody>
