@@ -18,7 +18,7 @@
  📫 hernanbp.hb@gmail.com
  
  
- Current Skills:
+ Some technologies I use:
  
  <table width="320px">
     <tbody>
