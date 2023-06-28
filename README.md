@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <span className="block">
-              Hello there! I&apos;m Hernan a full-stack developer with a passion
+              I&apos;m Hernan a full-stack developer with a passion
               for building cool and interactive web experiences.
             </span>
             <span className="block mt-6">
