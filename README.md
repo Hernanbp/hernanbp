@@ -12,11 +12,7 @@
               always looking to stay up to date with current trends in the
               industry.
             </span>
-            <span className="block mt-6">
-              Thanks for dropping by, feel free to check out my work and contact
-              me if you&apos;re interested in working together,
-            </span>
-            <span className="block italic mt-2">~ Hernan</span>
+            
  If you want to get in touch feel free to contact me: 
  
  📫 hernanbp.hb@gmail.com
