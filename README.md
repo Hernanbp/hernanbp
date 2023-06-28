@@ -1,7 +1,22 @@
 ### Hi there 👋
 
-I'm Hernan , Frontend Developer from Buenos Aires [AR]. I really enjoy working with React as well as keeping up to date with current tech. I enjoy wireframing, ui , ux , and design in general. I also happen to enjoy 3d and animation. 
-
+ <span className="block">
+              Hello there! I&apos;m Hernan a full-stack developer with a passion
+              for building cool and interactive web experiences.
+            </span>
+            <span className="block mt-6">
+              I&apos;m comfortable working with
+              <b> React, Next.js, Node.js, Express, MongoDB, PostgreSQL</b> and
+              much more. I have a strong background in UI design since the
+              <span className="italic"> photoshop days</span> and I&apos;m
+              always looking to stay up to date with current trends in the
+              industry.
+            </span>
+            <span className="block mt-6">
+              Thanks for dropping by, feel free to check out my work and contact
+              me if you&apos;re interested in working together,
+            </span>
+            <span className="block italic mt-2">~ Hernan</span>
  If you want to get in touch feel free to contact me: 
  
  📫 hernanbp.hb@gmail.com
